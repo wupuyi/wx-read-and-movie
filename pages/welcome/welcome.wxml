@@ -1,0 +1,10 @@
+<!--pages/welecome/welecome.wxml-->
+<!-- <text>pages/welecome/welecome.wxml</text> -->
+
+<view class='container'>
+  <image class='user-avatar' src='/images/logo2.jpg'></image>
+  <text class='welcome-title'>欢迎光临回忆家小酒屋</text>
+  <view class='moto-container' bindtap='onTap'>
+    <text class='moto'>干杯</text>
+  </view>
+</view>
